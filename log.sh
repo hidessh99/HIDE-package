@@ -30,3 +30,13 @@ rm -rf /var/log/lastlog
 rm -rf /var/log/kern.log
 rm -rf /var/log/kern.log.*
 rm -rf /var/log/kern.log.*.gz
+
+rm -rf /var/log/wtmp
+
+
+
+rm -rf /var/log/nginx/access.log
+rm -rf /var/log/nginx/access.log.*
+rm -rf /var/log/nginx/error.log
+rm -rf /var/log/nginx/access.log.*
+

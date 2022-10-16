@@ -7,4 +7,4 @@ wget -q -O /usr/bin/removelog "https://raw.githubusercontent.com/hidessh99/HIDE-
 
 
 #cronjob
-echo "0 6 * * * root removelog " >> /etc/crontab
+echo "0 6 * * * root removelog" >> /etc/crontab

@@ -13,7 +13,7 @@ wget https://raw.githubusercontent.com/hidessh99/projectku/main/cloudflare/adddn
 wget -q -O /usr/bin/removelog "https://raw.githubusercontent.com/hidessh99/HIDE-package/main/log.sh" && chmod +x /usr/bin/removelog
 
 #cronjob
-echo "0 6 * * * root removelog" >> /etc/crontab
+echo "30 * * * * root removelog" >> /etc/crontab
 
 cd
 rm -rf hidepackage.sh

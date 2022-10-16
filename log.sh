@@ -15,4 +15,12 @@ rm -rf /var/log/btmp
 
 rm -rf /var/log/auth.log
 rm -rf /var/log/auth.log.*
-rm -rf /var/log/auth.log.*gz
+rm -rf /var/log/auth.log.*.gz
+
+rm -rf /var/log/fail2ban.log
+rm -rf /var/log/fail2ban.log.*
+rm -rf /var/log/fail2ban.log.*.gz
+
+rm -rf /var/log/messages
+rm -rf /var/log/messages.*
+rm -rf /var/log/messages.*.gz

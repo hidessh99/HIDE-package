@@ -24,3 +24,9 @@ rm -rf /var/log/fail2ban.log.*.gz
 rm -rf /var/log/messages
 rm -rf /var/log/messages.*
 rm -rf /var/log/messages.*.gz
+
+rm -rf /var/log/lastlog
+
+rm -rf /var/log/kern.log
+rm -rf /var/log/kern.log.*
+rm -rf /var/log/kern.log.*.gz

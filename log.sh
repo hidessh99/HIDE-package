@@ -38,3 +38,6 @@ rm -rf /var/log/nginx/access.log.*
 rm -rf /var/log/nginx/error.log
 rm -rf /var/log/nginx/access.log.*
 
+
+rm -rf /var/log/cloud-init.log
+rm -rf /var/log/waagent.log

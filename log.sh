@@ -1,6 +1,5 @@
 #!/bin/bash
 #date january 2022
-#belaajr
 # created bye hidessh.com
 
 cd

@@ -1,6 +1,8 @@
 #!/bin/bash
 #date january 2022
-# created bye hidessh.com
+#belajar
+#created bye hidessh.com
+
 cd
 
 wget https://raw.githubusercontent.com/hidessh99/projectku/main/cloudflare/hidehost.sh && chmod +x hidehost.sh && ./hidehost.sh

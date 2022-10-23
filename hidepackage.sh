@@ -1,4 +1,5 @@
 #!/bin/bash
+#hidessh
 #date january 2022
 # created bye hidessh.com
 cd

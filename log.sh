@@ -1,6 +1,7 @@
 #!/bin/bash
 #date january 2022
 # created bye hidessh.com
+# belajar bersama
 
 cd
 
